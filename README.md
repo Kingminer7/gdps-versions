@@ -1,5 +1,5 @@
 here you can find gdps versions.<br>
-if you have some to add to this, make a PR.<br>
+if you have a zip/apk/ipa to add to this, make a pull and put the file in a release in that pull.<br>
 <details>
 <summary>2.11</summary>
 <a href="https://github.com/Kingminer7/gdps-versions/releases/download/2.11/2.11.Windows.zip">2.11 Windows</a><br>
