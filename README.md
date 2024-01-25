@@ -4,7 +4,7 @@ if you have a zip/apk/ipa/dmg to add to this, make a pull and put the file in a 
 <summary>Newest versions here</summary>
 <a href="https://github.com/Kingminer7/gdps-versions/releases/download/2.204/2.204.Windows.zip">2.204 Windows</a><br>
 <a href="https://github.com/Kingminer7/gdps-versions/releases/download/2.205/2.205.Android.apk">2.205 Android</a><br>
-  <a href="https://github.com/Kingminer7/gdps-versions/releases/download/2.11/2.11.iOS.apk">2.11 iOS</a><br>
+  <a href="https://github.com/Kingminer7/gdps-versions/releases/download/2.11/2.11.iOS.ipa">2.11 iOS</a><br>
 </details>
 <details>
 <summary>2.11</summary>
