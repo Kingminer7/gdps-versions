@@ -1,7 +1,7 @@
 here you can find gdps versions.<br>
 if you have a zip/apk/ipa/dmg to add to this, make a pull and put the file in a release in that pull.<br>
 <details>
-<summary>Latest</summary>
+<summary>Newest versions here</summary>
 <a href="https://github.com/Kingminer7/gdps-versions/releases/download/2.204/2.204.Windows.zip">2.204 Windows</a><br>
 <a href="https://github.com/Kingminer7/gdps-versions/releases/download/2.205/2.205.Android.apk">2.205 Android</a><br>
   <a href="https://github.com/Kingminer7/gdps-versions/releases/download/2.11/2.11.iOS.apk">2.11 iOS</a><br>
